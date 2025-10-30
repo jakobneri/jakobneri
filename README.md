@@ -48,10 +48,7 @@ I'm a passionate developer constantly exploring new technologies and building am
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakobneri&theme=tokyonight&hide_border=true" alt="jakobneri's Streak" height="165">
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jakobneri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="jakobneri's Trophies">
-</div>
+
 
 ## 📈 Activity Graph
 <div align="center">

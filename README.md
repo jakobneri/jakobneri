@@ -52,7 +52,7 @@ I'm a passionate developer constantly exploring new technologies and building am
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jakobneri&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" alt="jakobneri's Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jakobneri&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true&custom_title=Lifetime%20Contribution%20Graph&days=365" alt="jakobneri's Activity Graph">
 </div>
 
 ## 🎯 Current Learning Path

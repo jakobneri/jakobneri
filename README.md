@@ -13,7 +13,6 @@ I'm a passionate developer constantly exploring new technologies and building am
 - 🏆 **AWS Certified Cloud Practitioner** - [View Credential](https://www.credly.com/users/jakob-neri/badges#credly)
 - 💡 I love solving complex problems and creating efficient solutions
 - 🎯 Goal: To become a proficient full-stack developer
-- ⚡ Fun fact: I believe code is poetry in motion!
 
 ## 🛠️ Tech Stack
 

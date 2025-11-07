@@ -10,9 +10,7 @@ I'm a passionate developer constantly exploring new technologies and building am
 
 - 🔭 I'm currently working on exciting web applications
 - 🌱 I'm currently learning **Angular**, **Node.js**, **SCSS**, and **AWS**
-- 🏆 **AWS Certified Cloud Practitioner** - [View Credential](https://www.credly.com/users/jakob-neri/badges#credly)
-- 💡 I love solving complex problems and creating efficient solutions
-- 🎯 Goal: To become a proficient full-stack developer
+- 🏆 **AWS Certified** - [View Credentials](https://www.credly.com/users/jakob-neri/badges#credly)
 
 ## 🛠️ Tech Stack
 

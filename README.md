@@ -57,9 +57,9 @@ I'm a passionate developer constantly exploring new technologies and building am
 ```mermaid
 graph LR
     A[JavaScript] --> B[TypeScript]
-    B --> C[Angular]
-    C --> D[SCSS]
-    D --> E[Node.js]
+    B --> C[Node.js]
+    C --> D[Angular]
+    D --> E[SCSS]
     E --> F[AWS]
     F --> G[Full Stack Mastery]
 ```

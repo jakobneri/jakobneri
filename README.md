@@ -34,6 +34,16 @@ I'm a passionate developer constantly exploring new technologies and building am
 ![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+## 🎯 Current Learning Path
+
+```mermaid
+graph LR
+    A[JavaScript] --> B[TypeScript] --> C[Node.js]
+    C --> H[JWT] --> G[Full Stack Mastery]
+    C --> D[Angular] --> E[SCSS] --> F[AWS] --> G
+    C --> I[SSO] --> G
+```
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -50,20 +60,6 @@ I'm a passionate developer constantly exploring new technologies and building am
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jakobneri&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true&custom_title=Lifetime%20Contri[...]" />
 </div>
-
-## 🎯 Current Learning Path
-
-```mermaid
-graph LR
-    A[JavaScript] --> B[TypeScript]
-    B --> C[Node.js]
-    C --> H[JWT]
-    C --> I[SSO]
-    C --> D[Angular]
-    D --> E[SCSS]
-    E --> F[AWS]
-    F --> G[Full Stack Mastery]
-```
 
 ## 🌟 Featured Projects
 

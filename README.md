@@ -58,8 +58,8 @@ I'm a passionate developer constantly exploring new technologies and building am
 graph LR
     A[JavaScript] --> B[TypeScript]
     B --> C[Angular]
-    C --> D[Node.js]
-    D --> E[SCSS]
+    C --> D[SCSS]
+    D --> E[Node.js]
     E --> F[AWS]
     F --> G[Full Stack Mastery]
 ```

@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Jakob Neri
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Angular+%26+Node.js+Enthusiast;Cloud+Computing+Explorer;Always+Learning+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Angular+%26+Node.js+Enthusiast;Cloud+Computi[...]" />
 </div>
 
 ## 🚀 About Me
@@ -42,34 +42,32 @@ I'm a passionate developer constantly exploring new technologies and building am
 ![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+## 🎯 Current Learning Path
+
+```mermaid
+graph LR
+    A[JavaScript] --> B[TypeScript] --> C[Node.js]
+    C --> H[JWT] --> G[Full Stack Mastery]
+    C --> D[Angular] --> E[SCSS] --> F[AWS] --> G
+    C --> I[SSO] --> G
+```
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jakobneri&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="jakobneri's Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakobneri&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="jakobneri's Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=jakobneri&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="jakobneri's Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakobneri&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="jakobneri's Top Languages" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakobneri&theme=tokyonight&hide_border=true" alt="jakobneri's Streak" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakobneri&theme=tokyonight&hide_border=true" alt="jakobneri's Streak" height="165" />
 </div>
 
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jakobneri&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true&custom_title=Lifetime%20Contribution%20Graph&days=365" alt="jakobneri's Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jakobneri&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true&custom_title=Lifetime%20Contri[...]" />
 </div>
-
-## 🎯 Current Learning Path
-
-```mermaid
-graph LR
-    A[JavaScript] --> B[TypeScript]
-    B --> C[Angular]
-    C --> D[Node.js]
-    D --> E[SCSS]
-    E --> F[AWS]
-    F --> G[Full Stack Mastery]
-```
 
 ## 🌟 Featured Projects
 
@@ -87,7 +85,7 @@ graph LR
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jakobneri&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=jakobneri&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   
   **Thanks for visiting my profile! Have a great day! 😊**
 </div>

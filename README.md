@@ -9,7 +9,7 @@
 I'm a passionate developer constantly exploring new technologies and building amazing things! Currently diving deep into modern web development and cloud technologies.
 
 - 🔭 I'm currently working on exciting web applications
-- 🌱 I'm currently learning **Angular**, **Node.js**, **SCSS**, and **AWS**
+- 🌱 I'm currently learning **Angular**, **Node.js**, **SCSS**, **AWS**, and **Python**
 - 🏆 **AWS Certified Cloud Practitioner** - [View Credential](https://www.credly.com/users/jakob-neri/badges#credly)
 - 💡 I love solving complex problems and creating efficient solutions
 - 🎯 Goal: To become a proficient full-stack developer
@@ -18,6 +18,7 @@ I'm a passionate developer constantly exploring new technologies and building am
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,14 +27,18 @@ I'm a passionate developer constantly exploring new technologies and building am
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS Certified](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Databases
+
 ![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -48,9 +53,8 @@ I'm a passionate developer constantly exploring new technologies and building am
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakobneri&theme=tokyonight&hide_border=true" alt="jakobneri's Streak" height="165">
 </div>
 
-
-
 ## 📈 Activity Graph
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jakobneri&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true&custom_title=Lifetime%20Contribution%20Graph&days=365" alt="jakobneri's Activity Graph">
 </div>
@@ -81,7 +85,6 @@ graph LR
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakob-neri-956b24373/)
 
 </div>
-
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jakobneri&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">

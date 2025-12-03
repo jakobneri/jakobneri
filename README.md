@@ -6,8 +6,6 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer constantly exploring new technologies and building amazing things! Currently diving deep into modern web development and cloud technologies.
-
 - 🔭 I'm currently working on exciting web applications
 - 🌱 I'm currently learning **Angular**, **Node.js**, **SCSS**, **AWS**, and **Python**
 - 🏆 **AWS Certified Cloud Practitioner** - [View Credential](https://www.credly.com/users/jakob-neri/badges#credly)

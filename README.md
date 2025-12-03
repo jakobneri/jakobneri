@@ -52,23 +52,6 @@ graph LR
     C --> I[SSO] --> G
 ```
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jakobneri&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="jakobneri's Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakobneri&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="jakobneri's Top Languages" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakobneri&theme=tokyonight&hide_border=true" alt="jakobneri's Streak" height="165" />
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jakobneri&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true&custom_title=Lifetime%20Contri[...]" />
-</div>
-
 ## 🌟 Featured Projects
 
 <!-- You can add your projects here when you have them -->

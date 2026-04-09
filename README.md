@@ -6,12 +6,10 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on exciting web applications
+- 🔭 I'm currently in an apprenticehip
 - 🌱 I'm currently learning **Angular**, **Node.js**, **SCSS**, **AWS**, and **Python**
 - 🏆 **AWS Certified Cloud Practitioner** - [View Credential](https://www.credly.com/users/jakob-neri/badges#credly)
-- 💡 I love solving complex problems and creating efficient solutions
 - 🎯 Goal: To become a proficient full-stack developer
-- ⚡ Fun fact: I believe code is poetry in motion!
 
 ## 🛠️ Tech Stack
 
@@ -40,22 +38,6 @@
 ![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🎯 Current Learning Path
-
-```mermaid
-graph LR
-    A[JavaScript] --> B[TypeScript] --> C[Node.js]
-    C --> H[JWT] --> G[Full Stack Mastery]
-    C --> D[Angular] --> E[SCSS] --> F[AWS] --> G
-    C --> I[SSO] --> G
-```
-
-## 🌟 Featured Projects
-
-<!-- You can add your projects here when you have them -->
-<div align="center">
-  <i>🚧 Exciting projects coming soon! 🚧</i>
-</div>
 
 ## 📫 Let's Connect!
 

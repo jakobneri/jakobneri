@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently in an apprenticehip
 - 🌱 I'm currently learning **Angular**, **Node.js**, **SCSS**, **AWS**, and **Python**
-- 🏆 **AWS Certified Cloud Practitioner** - [View Credential](https://www.credly.com/users/jakob-neri/badges#credly)
+- 🏆 **AWS Certified Cloud Practitioner** - [View Credentials](https://www.credly.com/users/jakob-neri/badges#credly)
 - 🎯 Goal: To become a proficient full-stack developer
 
 ## 🛠️ Tech Stack

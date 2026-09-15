@@ -1,7 +1,7 @@
 ### Jakob Neri
 
 Full-stack developer, currently doing my apprenticeship.
-Angular and Node.js during the day, AWS and networking after hours.
+Angular and Node.js with AWS during the day, and networking and vibing after hours.
 
 ![Angular](https://img.shields.io/badge/Angular-1f2328?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1f2328?style=flat-square&logo=typescript&logoColor=white)

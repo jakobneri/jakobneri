@@ -11,7 +11,7 @@ Angular and Node.js with AWS during the day, and networking and vibing after hou
 ![Docker](https://img.shields.io/badge/Docker-1f2328?style=flat-square&logo=docker&logoColor=white)
 ![UniFi](https://img.shields.io/badge/UniFi-1f2328?style=flat-square&logo=ubiquiti&logoColor=white)
 
-**Now** — getting deeper into Python, and keeping a UniFi network running at home.
+**Now** — getting deeper into Local Ai, and my homelab.
 
 **Certified** — AWS Cloud Practitioner ([Credly](https://www.credly.com/users/jakob-neri/badges#credly))
 
